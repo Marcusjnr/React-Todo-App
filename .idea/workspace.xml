@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9c3a9c85-606f-467e-89ab-5f2e46ee07ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ss/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ss/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AddTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddTodo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todos.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584367348303</updated>
       <workItem from="1584367349664" duration="4141000" />
-      <workItem from="1584371508067" duration="13487000" />
+      <workItem from="1584371508067" duration="14006000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1584632467058</created>
@@ -71,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584632467059</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1584632881319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584632881319</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,18 +91,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="391" y="0" key="CommitChangelistDialog2" timestamp="1584632465317">
+    <state x="391" y="0" key="CommitChangelistDialog2" timestamp="1584632880321">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.832@0.0.1536.832" timestamp="1584632465317" />
+    <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.832@0.0.1536.832" timestamp="1584632880321" />
     <state x="0" y="59" key="SettingsEditor" timestamp="1584371493247">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
     <state x="0" y="59" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1584371493247" />
-    <state x="361" y="131" key="Vcs.Push.Dialog.v2" timestamp="1584632498521">
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2" timestamp="1584632885804">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="361" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.832@0.0.1536.832" timestamp="1584632498521" />
+    <state x="361" y="131" key="Vcs.Push.Dialog.v2/0.0.1536.832@0.0.1536.832" timestamp="1584632885804" />
     <state x="67" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584371517466">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
